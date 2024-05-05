@@ -1,0 +1,8 @@
+baseURL = 'https://kummelbyrunan.potato.eco/'
+languageCode = 'sv-SE'
+DefaultContentLanguage = "sv"
+title = 'Kummelbyrunan'
+theme = 'ananke'
+
+[params]
+  author = "Tony"
