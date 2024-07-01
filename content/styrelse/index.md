@@ -8,17 +8,15 @@ menu:
 
 ---
 
-## aa 
-
 Föreningens styrelse består av:
+Ledamöter
+- Johan Sandberg (omval)
+- My Ståhlberg Witt (omval)
+- Tony Lundgren (omval)
 
-- Christina Ljungdahl, ordförande
-- Sanna Lindgren, ledamot
-- My Ståhlberg Witt, ledamot
-- Johan Sandberg, ledamot
-- Valerie Challis, suppleant
-- Tony Lundgren, suppleant
-
+Suppleanter
+- Valerie Challis (omval)
+- Marcus Abrahamsson (nyval)
 
 ## Kontakt
 
