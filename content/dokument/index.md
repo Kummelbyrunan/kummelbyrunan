@@ -16,6 +16,8 @@ menu:
 - [2020-06-28](/pdfs/stadgar-2020.pdf)
 
 ## Årstämmor
+Året är verksamhetsåret. 
+- [2023](/pdfs/årsredovisningar/årsredovisning-2023.pdf)
 - [2022](/pdfs/årsredovisningar/årsredovisning-2022.pdf)
 - [2021](/pdfs/årsredovisningar/årsredovisning-2021.pdf)
 - [2020](/pdfs/årsredovisningar/årsredovisning-2020.pdf)
