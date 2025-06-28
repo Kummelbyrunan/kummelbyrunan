@@ -17,6 +17,7 @@ menu:
 
 ## Årstämmor
 Året är verksamhetsåret. 
+- [2024](/pdfs/årsredovisningar/årsredovisning-2024.pdf)
 - [2023](/pdfs/årsredovisningar/årsredovisning-2023.pdf)
 - [2022](/pdfs/årsredovisningar/årsredovisning-2022.pdf)
 - [2021](/pdfs/årsredovisningar/årsredovisning-2021.pdf)
